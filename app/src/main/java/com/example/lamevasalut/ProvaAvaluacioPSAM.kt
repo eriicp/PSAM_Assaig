@@ -22,6 +22,9 @@ Necessito definir les següents categories d'informació mèdica:
 - Mesures corporal
 - Altres dades
 Com ho faries?
+Faria un array de parells, fent que la primera clau sigui el que estic guardant per exemple
+"Activitat" i despres les dades.
+
 
 PREGUNTA 04
 A partir d'un array de parells, genera la pantalla inicial de la meva salut

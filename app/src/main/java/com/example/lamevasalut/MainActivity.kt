@@ -32,6 +32,8 @@ class MainActivity : AppCompatActivity() {
         Pair("Massa muscular" , "52,1 kg")
         )
 
+
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
